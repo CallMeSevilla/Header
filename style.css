@@ -1,0 +1,36 @@
+*
+body {
+    background-color: white;
+}
+h1 {
+    text-align: center;
+    font-size: 20px;
+}
+#top2 {
+    text-align: center;
+}
+h2 {
+    font-weight: bold;
+    text-align: center;
+}
+
+#top4 {
+
+    text-align: center;
+    font-style: italic
+   
+}
+
+
+img {
+    
+    border-radius: -200px;
+    margin-right: -200px;
+    float: left;
+  }
+
+#logo2 {
+    position: relative;
+    right: 170px;
+    float: right;
+}
