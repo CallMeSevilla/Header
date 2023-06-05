@@ -1,0 +1,16 @@
+
+// Log in for admin
+username: admin
+password: admin1
+
+
+    // table 1
+    $schooltable1 = $_POST['school_tbl1'];
+    $classAstable1 = $_POST['class_as_tbl1'];
+    $schoolYeartable1 = $_POST['school_year_tbl1'];
+    // tbl1 data
+    $currentYearr1table1 = $_POST['curr_yr1_tbl1'];
+    $subject1table1 = $_POST['subject1_tbl1'];
+    $finalRating1table1 = $_POST['final_rating1_tbl1'];
+    $actionTaken1table1 = $_POST['action_taken1_tbl1'];
+    $creditsEarned1table1 = $_POST['credits_earned1_tbl1'];
